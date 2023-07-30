@@ -5,7 +5,7 @@ Any candidate who opted for Tech in the registration form can attempt this pract
 
 It is mandatory for those who are interested in joining Web Development Team to complete the first 4 tasks (TASK 4 is optional, but make sure to try it)
 
-In this practical round, you are given with 7 tasks in the given 3 folders. 
+In this practical round, you are given with 7 tasks in the given folders. 
 Each task has it's own weightage for grading. 
 Try to complete all tasks within the deadline. If failed to make out all tasks, submit the tasks that you've completed before deadline.
 
