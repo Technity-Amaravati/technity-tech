@@ -1,5 +1,5 @@
 ## 📌 Introduction
-This is a Python Telegram bot challenge for Praveshan 2022.
+This is a Python Telegram bot challenge for Niyojan 2023.
 
 ## 🏃‍ Getting Started
 - Fork this repository and then clone it.
