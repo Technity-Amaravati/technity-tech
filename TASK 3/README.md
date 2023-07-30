@@ -3,7 +3,7 @@
 Title: JAVASCRIPT FORM VALIDATION
 - Weightage: 25%
 
-** Task: Build a form using  HTML, CSS, BOOTSTRAP or any other Frameworks and provide form validation using JAVASCRIPT. **
+**Task: Build a form using  HTML, CSS, BOOTSTRAP or any other Frameworks and provide form validation using JAVASCRIPT.**
 
 - Note: 
 
