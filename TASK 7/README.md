@@ -1,5 +1,4 @@
 ## Programming
-Solve problems from Hackerrank and Codeforces in Python/C/C++ or any other programming language. We will be evaluating everyone’s code submissions, so please do not copy the code. Plagiarism is not the way to get into the club :) Show us what you did and we’ll be happy with it.
 
 ### Hackerrank Project Euler: (First 5 problems)
 <ul><li>https://www.hackerrank.com/contests/projecteuler/challenges</li></ul>
