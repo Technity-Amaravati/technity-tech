@@ -17,12 +17,3 @@ After understanding your final grade which will be evaluated from both of your g
 - Note: Deadline will be informed later through Whatsapp/Email.
 
 Best of Luck.
-
-For queries:
-Contact -
-
-- Yashwanth Reddy J ---	+918555959626.
-- Sricharan V,	    ---	+916302981755.
-- Venkat Sai V,	    ---	+919391689536.
-
-
