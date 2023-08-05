@@ -34,7 +34,7 @@ This is a Python Telegram bot challenge for Abhyuday 2023.
 - [BotFather](https://medium.com/shibinco/create-a-telegram-bot-using-botfather-and-get-the-api-token-900ba00e0f39)
 
 ## 📝 Submission Guidelines
-Add the Python script to the task-4 folder in your repository.
+Add the Python script to the task-6 folder in your repository.
 
 
 ## 👀 Live Bot Preview
